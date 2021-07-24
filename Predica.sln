@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CrmSynchronizationApp", "Predica Project\CrmSynchronizationApp.csproj", "{55C713A8-5476-44B9-BC00-22FD20413E12}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Plugins", "Plugins\Plugins.csproj", "{7C7FD41F-4DFE-4DAD-881A-E38879A46B7B}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Predica.Xrm.Core", "Xrm.Core\Predica.Xrm.Core.shproj", "{6C01332F-391D-4C49-85BD-97B992D503B0}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		Xrm.Core\Xrm.Core.projitems*{55c713a8-5476-44b9-bc00-22fd20413e12}*SharedItemsImports = 5
+		Xrm.Core\Xrm.Core.projitems*{6c01332f-391d-4c49-85bd-97b992d503b0}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{55C713A8-5476-44B9-BC00-22FD20413E12}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55C713A8-5476-44B9-BC00-22FD20413E12}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55C713A8-5476-44B9-BC00-22FD20413E12}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55C713A8-5476-44B9-BC00-22FD20413E12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C7FD41F-4DFE-4DAD-881A-E38879A46B7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C7FD41F-4DFE-4DAD-881A-E38879A46B7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C7FD41F-4DFE-4DAD-881A-E38879A46B7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C7FD41F-4DFE-4DAD-881A-E38879A46B7B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E22C8F91-3B6A-47E5-8B84-9EE9B886FF9B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "appInsights1": {
+      "type": "appInsights.sdk"
+    },
+    "storage1": {
+      "type": "storage.emulator",
+      "connectionId": "AzureWebJobsStorage"
+    },
+    "secrets1": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.KeyVault/vaults/BlobConnectionString",
+      "type": "secrets.keyVault",
+      "connectionId": "BlobConnectionString",
+      "secretStore": null
+    },
+    "storage2": {
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Storage/storageAccounts/conferenceleadstorage",
+      "type": "storage.azure",
+      "connectionId": "BlobConnectionString",
+      "secretStore": "AzureKeyVault"
+    }
+  }
+}

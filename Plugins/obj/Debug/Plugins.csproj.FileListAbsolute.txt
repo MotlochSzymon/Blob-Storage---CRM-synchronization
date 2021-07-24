@@ -1,0 +1,11 @@
+C:\Users\szymo\Desktop\azure\CrmSynchronizationApp\Plugins\bin\Debug\Plugins.dll
+C:\Users\szymo\Desktop\azure\CrmSynchronizationApp\Plugins\bin\Debug\Plugins.pdb
+C:\Users\szymo\Desktop\azure\CrmSynchronizationApp\Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\szymo\Desktop\azure\CrmSynchronizationApp\Plugins\bin\Debug\Microsoft.Xrm.Sdk.dll
+C:\Users\szymo\Desktop\azure\CrmSynchronizationApp\Plugins\bin\Debug\Microsoft.Crm.Sdk.Proxy.xml
+C:\Users\szymo\Desktop\azure\CrmSynchronizationApp\Plugins\bin\Debug\Microsoft.Xrm.Sdk.xml
+C:\Users\szymo\Desktop\azure\CrmSynchronizationApp\Plugins\obj\Debug\Plugins.csproj.AssemblyReference.cache
+C:\Users\szymo\Desktop\azure\CrmSynchronizationApp\Plugins\obj\Debug\Plugins.csproj.CoreCompileInputs.cache
+C:\Users\szymo\Desktop\azure\CrmSynchronizationApp\Plugins\obj\Debug\Plugins.csproj.CopyComplete
+C:\Users\szymo\Desktop\azure\CrmSynchronizationApp\Plugins\obj\Debug\Plugins.dll
+C:\Users\szymo\Desktop\azure\CrmSynchronizationApp\Plugins\obj\Debug\Plugins.pdb

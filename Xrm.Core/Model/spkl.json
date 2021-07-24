@@ -1,0 +1,18 @@
+{
+  "earlyboundtypes": [
+    {
+      "entityCollection": [
+        "lead"
+      ],
+      "actionCollection": [
+      ],
+      "generateOptionsetEnums": true,
+      "generateStateEnums": true,
+      "generateGlobalOptionsets": true,
+      "filename": "Model\\CrmSdk.cs",
+      "classNamespace": "Predica.Xrm.Core.Model",
+      "serviceContextName": "XrmServiceContext",
+      "oneTypePerFile": false
+    }
+  ]
+}
